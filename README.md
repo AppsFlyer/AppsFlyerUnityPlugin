@@ -18,6 +18,7 @@ Installation instruction for the AppsFlyer's plugin:
 
 
 Plugin API:
+===========
 	
 Tracking event:
     AppsFlyer.startSession("MyEventName","TheEventValue");

@@ -23,9 +23,9 @@ Plugin API:
 Tracking event:
     AppsFlyer.startSession("MyEventName","TheEventValue");
 
-Pelase refer to section 3 at the iOS SDK integration guide for in-app event API documentation.
+Pelase refer to section 6 at the iOS SDK integration guide for in-app event API documentation.
 
-http://support.appsflyer.com/attachments/token/th1eupyfydtsmpg/?name=AF-iOS-SDK-Integration-Guide-v2.5.1.9.3.pdf
+http://support.appsflyer.com/entries/22973717-iOS-SDK-Integration-Guide-
 
 Testing SDK integration:
 http://support.appsflyer.com/entries/22904293-Testing-AppsFlyer-iOS-SDK-Integration-
